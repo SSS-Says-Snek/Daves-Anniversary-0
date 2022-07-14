@@ -1,0 +1,7 @@
+{
+    "gravity": 0.05,
+    "player_speed": 1.2,
+    "player_jump": -4.5,
+    "grapple_speed": 6,
+    "grapple_range": 12
+}
